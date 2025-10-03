@@ -6,7 +6,7 @@
 # direnv allow
 # ```
 # hehe
-# more
+# more edited!
 
 
 { pkgs ? import <nixpkgs> { }
