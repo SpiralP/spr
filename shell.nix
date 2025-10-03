@@ -5,7 +5,7 @@
 # echo "use nix" >.envrc
 # direnv allow
 # ```
-# hehe
+# hehe edited!
 
 
 { pkgs ? import <nixpkgs> { }
